@@ -11,7 +11,7 @@ rtc:
   use_external_ip: true
 redis:
   # redis is recommended for production deploys
-  address: redis://red-cmh3mben7f5s739oimeg:6379
+  address: red-cmh3mben7f5s739oimeg:6379
 keys:
   # key value pairs
   API7QHuLjtwFuyu: 5BtDYEUfDI7ifItSXevVeFZX47keeSHfvfzHzJiT6DKS
